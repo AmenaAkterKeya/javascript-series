@@ -1,4 +1,4 @@
-# JavaScript Basics Repository
+# JavaScript Repository
 
 Welcome to the JavaScript Series Repository! This repository is designed to help you learn and practice the fundamentals of JavaScript, one of the most popular programming languages in the world.
 
